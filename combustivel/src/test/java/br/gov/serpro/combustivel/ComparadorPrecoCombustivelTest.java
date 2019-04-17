@@ -1,10 +1,9 @@
 package br.gov.serpro.combustivel;
 
-import static org.junit.Assert.assertTrue;
-
+import org.junit.Assert;
 import org.junit.Test;
 
-public class CompararPrecoCombustivelTest 
+public class ComparadorPrecoCombustivelTest 
 {
     /** primeiro teste unitário **/
     @Test
